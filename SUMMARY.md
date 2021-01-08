@@ -1,8 +1,10 @@
 # Table of contents
 
-* [Python: \`==\` และ \`is\` นั้นต่างกันยังไง](README.md)
+* [CODE DAI \(โค้ดได้\)](README.md)
 
 ## Python
 
-* [Untitled](python/untitled.md)
+---
+
+* [== และ is ต่างกันยังไง](is.md)
 
