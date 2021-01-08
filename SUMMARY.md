@@ -6,5 +6,5 @@
 
 ---
 
-* [== และ is ต่างกันยังไง](equal-vs-is.md)
+* [== และ is ต่างกันยังไง](double-equals-vs-is.md)
 
