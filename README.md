@@ -6,5 +6,7 @@ description: >-
 
 # CODE DAI \(โค้ดได้\)
 
+[https://www.facebook.com/codedai.th](https://www.facebook.com/codedai.th)
+
 ![](.gitbook/assets/codedai-cover-3.jpeg)
 
